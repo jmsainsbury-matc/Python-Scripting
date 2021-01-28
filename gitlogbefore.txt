@@ -1,0 +1,41 @@
+commit 8da15abd8b8f231814dcd492cc5924c5cc3ccab6
+Author: jmsainsbury-matc <jmsainsbury@madisoncollege.edu>
+Date:   Thu Jan 28 13:47:10 2021 -0600
+
+    Added a new file
+
+commit 82668551f940968221c84e0b2b7614de31f96657
+Author: jmsainsbury-matc <jmsainsbury@madisoncollege.edu>
+Date:   Thu Jan 28 13:44:55 2021 -0600
+
+    Initial commit of Github exercise
+
+commit 4cbd4e2e868c1a221f24e5347dd196b77c359eca
+Author: jmsainsbury-matc <jmsainsbury@madisoncollege.edu>
+Date:   Thu Jan 28 13:33:30 2021 -0600
+
+    Added githubexercise
+
+commit 8df43d249e917576ebe6ec2c9bb49ba4dfb3596f
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Jan 28 19:13:38 2021 +0000
+
+    Setting up GitHub Classroom Feedback
+
+commit 98b946880768dc6a9eddffc4bcd08ce8e2d10e5b
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Jan 28 19:13:37 2021 +0000
+
+    Update GitHub Classroom Feedback
+
+commit 0af8bcd545089cac6ce60bff6fe96ee83964fb7d
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Jan 28 19:13:36 2021 +0000
+
+    Setting up GitHub Classroom Feedback
+
+commit ff2a685796758d23c6b58429c305485ed8ecda74
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Jan 28 19:13:35 2021 +0000
+
+    GitHub Classroom Feedback
