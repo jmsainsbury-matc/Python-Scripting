@@ -12,7 +12,6 @@ with open("Midterm-if.txt","r") as hFile:
 				linenum = int(element)
 			if (element == "gmeach18@ed.gov") or (element == "248.253.63.149") or (element == "Whiteland") or (element == "80.222.19.190") \
 				or (element == "Kayley") or (element == "dcassyqw@microsoft.com"):
-				print(element)
 				Total += linenum
 		line = hFile.readline()
 print(Total)
