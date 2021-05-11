@@ -9,7 +9,6 @@ SELECT_FUNCT = str(parser.parse_args().FUNCTION_NUMBER)
 IP = parser.parse_args().IP_ADD
 URL = "http://"+IP+"/q"+SELECT_FUNCT
 if int(SELECT_FUNCT) < 5:
-	print(SELECT_FUNCT)
 	res = requests.get(URL)
 	res.raise_for_status()
 	soup = bs4.BeautifulSoup(res.text, 'html.parser')
